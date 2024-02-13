@@ -8,7 +8,7 @@
 ### º Características:
 - Posições compradas e mantidas por um período de tempo mais longo (meses a anos).
 - Diversificação em diferentes altcoins para reduzir o risco.
-- Análise fundamental e técnica e on-chain para seleção de ativos.
+- Análise fundamental e técnica e on-chain, para screening de ativos, position sizing e rebalanceamento da cartira.
 ### º Exemplos:
 - Bitcoin (BTC)
 - Ethereum (ETH)
@@ -21,7 +21,7 @@
 ### º Características:
 - Posições compradas ou vendidas com prazos mais curtos (dias a semanas).
 - Alavancagem para potencializar os lucros (mas também aumenta o risco).
-- Combinação de Análise técnica e análise on-chain e análise de sentimento para identificar pontos de entrada e saída favoráveis.
+- Combinação de análise de sentimento, para screening de ativos, e análise técnica e análise on-chain, para identificar pontos de entrada e saída favoráveis. 
 ### º Exemplos:
 - Futuros de Bitcoin (BTC)
 - Opções de Ethereum (ETH)
@@ -71,7 +71,7 @@ Diversificar seus investimentos entre diferentes "books" e criptomoedas ajuda a 
 
 - Comece com o "book" de posição, que é mais conservador e exige menos tempo e experiência.
 - Aumente gradualmente a complexidade de suas estratégias à medida que você se sentir mais confortável.
-- Busque conhecimento sobre análise fundamental e técnica de criptomoedas e protocolos DeFi.
+- Busque conhecimento sobre FA e TA de criptomoedas e protocolos DeFi.
 - Utilize plataformas seguras e confiáveis para negociação de criptomoedas e empréstimos em DeFi.
 
 ## Lembre-se: Investir em criptomoedas é uma atividade de alto risco. É importante investir apenas o que você pode perder e ter um plano de investimento sólido.
