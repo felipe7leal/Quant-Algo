@@ -8,7 +8,7 @@
 ### º Características:
 - Posições compradas e mantidas por um período de tempo mais longo (meses a anos).
 - Diversificação em diferentes altcoins para reduzir o risco.
-- Análise fundamental e técnica e on-chain, para screening de ativos, position sizing e rebalanceamento da cartira.
+- Análise fundamental e técnica e on-chain, para screening de ativos, position sizing e rebalanceamento da carteira.
 ### º Exemplos:
 - Bitcoin (BTC)
 - Ethereum (ETH)
